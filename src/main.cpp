@@ -145,7 +145,8 @@ int main() {
             y_spawn = MIN_Y;
         }
 
-
+        manual.update();
         bn::core::update();
+        
     }
 }
