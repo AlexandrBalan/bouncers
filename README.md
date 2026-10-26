@@ -15,3 +15,9 @@ make
 ```
  
 Then open `bouncers.gba` in mGBA.
+
+
+OR
+
+
+Play here! https://alexandrbalan.github.io/bouncers/
