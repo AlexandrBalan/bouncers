@@ -55,7 +55,6 @@ class Bouncer {
 
             sprite.set_x(x);
         }
-    }
 
     private:
 
